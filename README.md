@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">👋 Welcome to my GitHub profile! 👋</h1> 
 </div>
-<img src="https://live.staticflickr.com/65535/53528907031_a5e7d1fe57_k.jpg" width="2048" height="1024" alt="Banner GitHub - 1"/>
+<img src="https://live.staticflickr.com/65535/53528907031_a5e7d1fe57_k.jpg"/>
 
 ## About Me
 - 👨‍🎓 Recent graduate of Systems Analyst.
