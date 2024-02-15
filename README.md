@@ -13,16 +13,24 @@
 I do not have work experience, however I have practical experience in web development using Laravel and MySQL technologies demonstrated in my final project of the degree.
 During the development of my final degree project, I acquired the following skills:
 - 📅 Project management
+- 📃 Software project documentation
 - ❓ Requirements engineering
 - 📊 Analysis
-- 🧮 Design
-- 💻 Development
+- 📑 Design
+- 💻 Web development
+- 🗄 SQL database
 - 💡 I continue to carry out practice projects to apply my knowledge and skills in web development.
 
 ## 🌱 I’m currently learning
 - 🔯 React
 - 🧮 Design patterns
 - 👀 Reviewing Java
+
+## 📫 Contact me
+-  [LinkedIn](https://www.linkedin.com/in/mariano-ivasiuta-448563206/)
+-  [Email](ivasiuta.mariano@gmail.com)
+-  [Instagram](https://www.instagram.com/mariano_ivasiuta/)
+-  [Facebook](https://www.facebook.com/profile.php?id=100006988788396)
 
 
   <!--
