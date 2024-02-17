@@ -27,8 +27,8 @@ During the development of my final degree project, I acquired the following skil
 - 👀 Reviewing Java
 
 ## 📫 Contact me
+- ✉ ivasiuta.mariano@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/mariano-ivasiuta-448563206/)
--  [Email](ivasiuta.mariano@gmail.com)
 -  [Instagram](https://www.instagram.com/mariano_ivasiuta/)
 -  [Facebook](https://www.facebook.com/profile.php?id=100006988788396)
 
