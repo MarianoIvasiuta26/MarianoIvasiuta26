@@ -7,8 +7,8 @@
 👨‍🎓 Systems Analyst.<br>
 👨‍💻 Web Developer.<br>
 🚀 Passionate about web development.<br>
-📚 Committed to continuous learning.
-💻 Portfolio: https://mariano-ivasiuta.up.railway.app/
+📚 Committed to continuous learning.<br>
+💻 Portfolio: https://mariano-ivasiuta.up.railway.app/<br>
 📩 Email: ivaisuta.mariano@gmail.com
 
 
